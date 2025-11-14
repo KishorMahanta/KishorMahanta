@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://media.giphy.com/media/SWoSkN6DxTszqKSpsLH/giphy.gif](https://github.com/KishorMahanta/KishorMahanta/commit/113f8a9afed353fbad65811e37e80d68ec862063)" alt="Coder GIF" width="100" height="100">
+  <img src="https://raw.githubusercontent.com/KishorMahanta/KishorMahanta/main/banner.png" alt="Profile Banner" width="100%" style="border-radius: 10px;">
 </div>
 
 # 
