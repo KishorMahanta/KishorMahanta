@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KishorMahanta/KishorMahanta/main/banner.png" alt="Profile Banner" width="100%" style="border-radius: 10px;">
+  <img src="https://github.com/KishorMahanta/KishorMahanta/commit/113f8a9afed353fbad65811e37e80d68ec862063" alt="Profile Banner" width="100%" style="border-radius: 10px;">
 </div>
 
 # 
