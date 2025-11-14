@@ -115,7 +115,14 @@
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjwuFamnje8OLtsfa/giphy.gif" alt="GIF" width="100">
   
-  **Thank you for visiting! Feel free to explore my repositories and let's build something amazing together! 🚀**
+  **Thank you for visiting my GitHub profile!
+
+I’m currently looking for tech job opportunities (Frontend / Full-Stack / Software Engineer roles).
+If you think I’m a good fit, feel free to reach out immediately:
+
+📧 kishormahanta004@gmail.com
+
+📞 9348403545   🚀**
   
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 </div>
