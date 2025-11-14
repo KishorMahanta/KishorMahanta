@@ -4,7 +4,7 @@
 
 # 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=80&lines=Hi+👋,+I'm+Kishor+Mahanta;Tech+Entrepreneur+%26+Software+Engineer;Cloud+%26+AI+Innovation+Enthusiast;Building+Digital+Products+At+Scale" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=80&lines=Hi+👋,+I'm+Kishor+Mahanta;Tech+Enthusiast+%26+Software+Engineer;Cloud+%26+AI+Innovation+Enthusiast;Building+Digital+Products+At+Scale" alt="Typing Animation" />
 </div>
 
 ---
