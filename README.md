@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KishorMahanta/KishorMahanta/main/Tech%20Comp.png" alt="Profile Banner" width="100%" style="border-radius: 10px;">
+  <img src="https://raw.githubusercontent.com/KishorMahanta/KishorMahanta/main/Tech%20Comp%20(1).png" alt="Profile Banner" width="100%" style="border-radius: 10px;">
 </div>
 
 # 
